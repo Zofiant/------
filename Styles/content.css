@@ -179,3 +179,19 @@ height: 50px;
         width: 100%; /* 100% для одного блока на одной строке */
     }
 }
+
+
+
+/* Контект на главной странице хомяк и лист плюсов */
+
+
+.ListOfPluses
+{
+    
+}
+
+.ListOfPluses li{
+    font-family: "Tahoma";
+    
+    font-size: 20px;
+}

@@ -22,10 +22,11 @@ body
 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-bottom: 100px;
+   
     align-items: center;
     
 }
+
 
 .main_door
 {
